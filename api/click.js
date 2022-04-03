@@ -6,6 +6,11 @@ describe('Learning WebDriverIO API', async function(){
         $(Login_ICON).click()
         await browser.pause(30000)
 
+        //teste
+
+//res
+
+
     });
 
 })
