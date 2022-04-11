@@ -25,4 +25,8 @@ class Login{
 
 }
 //Export an instance NOT a class
-export default new Login()
+// export default new Login()
+// export { Login }
+// export let login = new Login();
+// export default Login
+export default new Login ()

@@ -27,5 +27,7 @@ describe ('Learning WebdriverIO API', function(){
         console.log('teste')
         console.log('Input text:', displayResultado)
         console.log(displayResultado)
+
     });
+    
 });
